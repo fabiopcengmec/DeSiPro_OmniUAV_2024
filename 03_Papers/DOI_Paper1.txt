@@ -1,0 +1,28 @@
+doi://10.26678/ABCM.CONEM2024.CON24-0660
+
+Modeling and simulation of a omnidirectional multirotor UAV
+
+Submission Author: Fabio Pinheiro Cardoso , RJ , Brazil
+Co-Authors: João Carlos Virgolino Soares, Marco Antonio Meggiolaro
+Presenter: Fabio Pinheiro Cardoso
+
+
+Abstract
+Multirotor vehicles are broadly used in robotics applications for their low cost, maneuverability, and speed. 
+However, the inability of traditional multirotors to generate thrust and torque independently of each other, and in any direction, has two main consequences. 
+First, the set of viable maneuvers for these Unmanned Aerial Vehicles (UAVs) is severely limited because of the coupling of both position and attitude. 
+Second, the UAVs are unable to withstand arbitrary force and torque disturbances without substantial delay. 
+This is due to the time required to reorient the direction of fixed thrust in the UAV chassis, which degrades the performance of UAVs in scenarios that demand high-precision flight and in scenarios 
+where major external disturbances are found. For instance, in the applications of interaction aerial physics, in activities such as grabbing and manipulating objects or human interaction. 
+
+This work addresses the modeling and simulations of an omnidirectional multirotor, which purpose is to overcome the traditional multirotors limitations, i.e., a UAV system capable of independently 
+controlling its thrusts and torques in all degrees of freedom. This configuration has the potential to perform unusual maneuvers for conventional configurations (underactuated) since they can be 
+overactuated or fully actuated depending on the number of installed motor propellers. The analyses, simulations, and preliminary results of the project and development of the aerial system are 
+presented, highlighting some requirements, scope, and restrictions. The UAV modeling is idealized with eight motors, an velocities feedback, and a inputs from forces and torques. 
+The typical configurations of conventional multirotor UAVs normally have their motors allocated on the same plane and with their rotation axes parallel to each other. 
+However, the proposal discussed in this work is designed to have its motor-propeller sets configured with eight motors located on the faces of a circumscribed octahedron, and supported by eight 
+beams connected to a core, which can contain all the electronics necessary for its operation. This configuration can enhances the available torque and forces, being able to provide behaviors that are 
+unattainable in common multirotors.
+
+Keywords
+omnidirectional, UAV, multirotor aerial vehicle, Simulation, modeling
