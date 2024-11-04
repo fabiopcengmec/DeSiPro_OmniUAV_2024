@@ -1,2 +1,2 @@
 # DeSiPro_OmniUAV_2024
-This repository stores the documents and additional files to the dissertation "Design, Simulation and Prototyping of a Omnidirectional Multirotor Unmanned Aerial Vehicle (UAV)", submitted and defended at the Department of Mechanical Engineering at PUC-Rio, Brazil.
+This subdirectory stores the database and parameters of propellers manufactured by APC propellers, and can be accessed on its website "https://www.apcprop.com/technical-information/". These data and parameters are consolidated in the dissertation repository.
