@@ -1,6 +1,8 @@
 # DeSiPro_OmniUAV_2024
 %-----------------------------------------------------------------------
+
 Portuguese
+
 Cardoso, Fabio Pinheiro; Meggiolaro, Marco Antonio; Virgolino Soares,
 João Carlos. Projeto, Simulação e Prototipagem de um Veículo
 Aéreo Não Tripulado do tipo Multirrotor Omnidirecional. Rio
@@ -36,11 +38,16 @@ aérea é proposto e alguns aspectos de desempenho são avaliados e analisados
 e, com base nestes, são propostos alguns trabalhos futuros.
 
 Palavras-chave
+
 VANT, Multirrotor, Omnidirecional, Estabilidade, Graus de Liberdade .
+
 %-----------------------------------------------------------------------
 %-----------------------------------------------------------------------
+
 English
+
 %-----------------------------------------------------------------------
+
 Cardoso, Fabio Pinheiro; Meggiolaro, Marco Antonio (Advisor); Virgolino
 Soares, João Carlos (Co-Advisor). Design, Simulation and Prototyping
 of an Omnidirectional Multirotor Unmanned Aerial
@@ -73,5 +80,7 @@ a base of parameters for future tests of the physical model of the prototype.
 Based on the previous discussions, a basic layout for the aerial platform
 is proposed and some performance aspects are evaluated and analyzed and,
 based on these, some future work is proposed.
+
 Keywords
+
 UAV, Multirotor, Omnidirectional, Stability, Degrees of Freedom.
