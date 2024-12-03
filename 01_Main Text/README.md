@@ -1,7 +1,8 @@
 # DeSiPro_OmniUAV_2024
-%-----------------------------------------------------------------------
 
 Portuguese
+
+%-----------------------------------------------------------------------
 
 Cardoso, Fabio Pinheiro; Meggiolaro, Marco Antonio; Virgolino Soares,
 João Carlos. Projeto, Simulação e Prototipagem de um Veículo
@@ -42,6 +43,7 @@ Palavras-chave
 VANT, Multirrotor, Omnidirecional, Estabilidade, Graus de Liberdade .
 
 %-----------------------------------------------------------------------
+
 %-----------------------------------------------------------------------
 
 English
